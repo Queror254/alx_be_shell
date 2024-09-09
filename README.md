@@ -1,1 +1,3 @@
-# alx_be_shell
+#!/bin/bash
+su - used to switch between users
+
